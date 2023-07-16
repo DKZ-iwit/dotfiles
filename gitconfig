@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = dimitri.zlotnik@gmail.com
+	name = Dimitri Kacimi Zlotnik
